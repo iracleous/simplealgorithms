@@ -12,7 +12,7 @@ public class Product {
     private String name;
     private double price;
     private String productCode;
-    
+    private String anotherField;
     
     public Product(String newName, double newPrice, String code){
         name = newName;
